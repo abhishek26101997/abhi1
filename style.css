@@ -84,3 +84,7 @@ a.font-black{
 #project .card-title{
    font-weight: bold; 
 }
+
+.icon a{
+    color: black;
+}
