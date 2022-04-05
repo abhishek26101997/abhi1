@@ -17,7 +17,7 @@ p{
 
 h2{
     font-weight: bold;
-    font-size: 23;
+    font-size: 23px;
     margin-bottom: 20px;
 }
 
@@ -34,7 +34,7 @@ a.font-black{
 #about img{
     border-radius: 50%;
     width: 120px;
-    margin-bottom: 10px;
+    height:120px;
 }
 
 #about .name{
@@ -50,7 +50,7 @@ a.font-black{
 
 #about .skills{
     font-size: 14px;
-    color: #a8a8ab;
+    color: #00abae;
     margin-bottom: 10px;
 }
 
@@ -67,6 +67,10 @@ a.font-black{
 #about .icons a{
     color:#000;
 }
+
+/*******
+project
+******/
 
 #project{
     margin: 60px auto;
